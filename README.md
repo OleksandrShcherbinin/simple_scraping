@@ -1,3 +1,5 @@
 # simple_scraping
 
-* Simple web scraping tool for extracting data from websites.
+`pip intall -r requirements.txt`
+
+`scrapy crawl rozetka`
